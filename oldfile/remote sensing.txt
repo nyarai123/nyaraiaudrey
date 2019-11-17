@@ -35,7 +35,7 @@ Some specific uses of remotely sensed images of the Earth include:
 Large forest fires can be mapped from space, allowing rangers to see a much larger area than from the ground.
 Tracking clouds to help predict the weather or watch erupting volcanos, and help watch for dust storms.
 Tracking the growth of a city and changes in farmland or forests over several years or even decades.
-Mapping the ocean bottom - Discovery and mapping of the rugged topography of the ocean floor (e.g., huge mountain ranges, deep canyons, and the ìmagnetic stripingî on the ocean floor). </p>
+Mapping the ocean bottom - Discovery and mapping of the rugged topography of the ocean floor (e.g., huge mountain ranges, deep canyons, and the ‚Äúmagnetic striping‚Äù on the ocean floor). </p>
 <div class="row">
 <div class="col-sm-1"></div>
 <div class="col-sm-2"></div>
