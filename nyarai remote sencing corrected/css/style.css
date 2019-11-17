@@ -1,0 +1,10 @@
+body {
+background: #66CDAA url(images/bg.jpg); /* ?вет фона и путь к файлу */
+color: #fff; /* ?вет текста */
+}
+h3{
+color:black;
+}
+p{
+color:#9400D3;
+}
