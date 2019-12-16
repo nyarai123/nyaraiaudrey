@@ -1,0 +1,28 @@
+body {
+	background: #FFEFD5;
+	color: #000000;
+}
+
+.title-main {
+	font-size: 2.5rem;
+	font-style: italic;
+	font-family: "Times New Roman";
+}
+
+.subtitle-main {
+	font-size: 1.85rem;
+}
+
+.red-line {
+	text-indent: 2.5rem;
+}
+
+.text1 {
+	margin-bottom: 40px;
+ /* Отступ снизу */;
+}
+
+.text2 {
+	margin-bottom: 40px;
+ /* Отступ снизу */;
+}
